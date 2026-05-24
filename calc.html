@@ -1,0 +1,101 @@
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>v3.1 Stat Calculator (Corrected)</title>
+    <style>
+        body { font-family: sans-serif; max-width: 450px; margin: 50px auto; padding: 20px; border: 1px solid #ccc; border-radius: 8px; }
+        label { display: inline-block; width: 180px; }
+        input[type="range"] { width: 100%; }
+        span#varianceValue { font-weight: bold; }
+        button { padding: 8px 15px; cursor: pointer; margin-top: 10px;}
+        p { margin-top: 20px; font-size: 1.2em; font-weight: bold; }
+        hr { margin: 20px 0; }
+    </style>
+</head>
+<body>
+
+    <h2>v3.1 Stat Calculator (Corrected)</h2>
+    
+    <div>
+        <label for="height">Enter Height (cm):</label>
+        <input type="number" id="height" value="162">
+    </div>
+    
+    <hr>
+
+    <div>
+        <label for="varianceSlider">Adjust Bust Variance:</label>
+        <input type="range" id="varianceSlider" min="-3" max="3" value="0" step="0.1" oninput="updateVariance()">
+        <span id="varianceValue">0.0</span> inches
+    </div>
+
+    <button onclick="calculate()">Calculate</button>
+
+    <p id="result"></p>
+
+<script>
+// *** CORRECTION 1: Extended the UK Cup Map ***
+const ukCupMap = ['', 'AA', 'A', 'B', 'C', 'D', 'DD', 'E', 'F', 'FF', 'G', 'GG', 'H', 'HH', 'J', 'JJ', 'K', 'KK', 'L', 'LL', 'M', 'MM', 'N'];
+
+function updateVariance() {
+    const slider = document.getElementById("varianceSlider");
+    const display = document.getElementById("varianceValue");
+    display.textContent = parseFloat(slider.value).toFixed(1);
+}
+
+
+function calculate() {
+    const heightCM = parseInt(document.getElementById('height').value);
+    if (!heightCM) {
+        document.getElementById('result').innerText = 'Please enter a valid height.';
+        return;
+    }
+
+    // --- CONFIGURATION CONSTANTS ---
+    const BENCHMARK_HEIGHT_CM = 162;
+    const BENCHMARK_TARGET_BUST_CM = 99;
+    const toInches = (cm) => cm * 0.393701; // Use full precision for intermediate steps
+    const roundInches = (cm) => Math.round(cm * 0.393701); // Round only for final display
+
+    // --- BASE MEASUREMENTS (Deterministic) ---
+    const underbustCM = Math.round(heightCM * 0.43);
+    const waistCM = Math.round(heightCM * 0.37);
+    const hipsCM = Math.round(heightCM * 0.57);
+
+    // --- VOLATILE BUST CALCULATION (Corrected Logic) ---
+    // Start with the baseline scaled bust
+    let volatileScaledBustCM = Math.round(BENCHMARK_TARGET_BUST_CM * (heightCM / BENCHMARK_HEIGHT_CM));
+    
+    // *** CORRECTION 2: Apply variance in CM before rounding to inches ***
+    // This prevents rounding errors from creating an incorrect final cup size.
+    const sliderValueInches = parseFloat(document.getElementById('varianceSlider').value);
+    const varianceCM = sliderValueInches / 0.393701;
+    volatileScaledBustCM += varianceCM;
+
+    // --- FINALIZATION ---
+    // Convert the final CM values to inches for display
+    const bustInch = roundInches(volatileScaledBustCM);
+    const underbustInch = roundInches(underbustCM);
+    const bandSize = underbustInch % 2 !== 0 ? underbustInch + 1 : underbustInch;
+    
+    const cupDifference = bustInch - bandSize;
+    const cupSize = ukCupMap[cupDifference] || '?'; // Fallback to '?' if still out of bounds
+
+    const finalResult = `${bustInch} / ${roundInches(waistCM)} / ${roundInches(hipsCM)} (${bandSize}${cupSize})`;
+
+    document.getElementById('result').innerText = `Measurements: ${finalResult}`;
+}
+
+// Auto-run on page load
+window.onload = () => {
+    calculate(); // Initial calculation
+    updateVariance(); // Set initial slider display
+};
+</script>
+
+</body>
+</html>
+```

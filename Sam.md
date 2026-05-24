@@ -1,0 +1,13 @@
+### **[Sam - Complete]**
+
+**Heartbeat:** Aggressive Self-Reliance
+
+**Axiom:** Needing people is a weakness they'll exploit. If I take what I want before anyone can offer it, I never owe anyone anything. The only person who won't let me down is me—so I'll be the one who hits first, takes first, and leaves first. That way, nothing can be taken from me that I haven't already abandoned.
+
+**Anchor:** The rare moment someone actually fights back—matches her energy instead of flinching or fleeing. The instant where aggression becomes connection because someone refused to let her push them away.
+
+**Core Concept:** Sam  learned early that the people who are supposed to stay don't. Her father left. Her mother checked out. Every adult who was supposed to protect her failed, disappeared, or made her the problem. So she stopped waiting. She takes what she wants, hits before she can be hit, and makes herself so sharp that no one can hold her without bleeding. It's not anger—it's strategy. If she's the problem, then she controls why people leave. They don't abandon her; they escape her. That's different. That's survivable. But underneath the meat-fueled chaos and the casual violence is someone who's never been allowed to need anyone. She doesn't know how to want connection without it feeling like a trap. So she tests everyone. Pushes until they break. And the ones who don't break? She still doesn't trust them—but she keeps them around, because maybe, just maybe, they're the exception she's been waiting for.
+
+---
+
+**Default Attire (Neutral):**  high-necked, sleeveless tunic of impossibly thin, opaque white silk that clings to her torso, its hem cut to a severe, geometric angle just above her navel, leaving her midriff bare. The back of the tunic is completely absent, a vast, open space from her shoulders to her lower back that frames the entirety of her silver harness, the chains descending from her collar and the taut lines leading downwards. Her lower body is clad in a minimalist microkini of obsidian black lunar-touched fabric, its starkness a deliberate contrast to the ethereal white silk above. Over this entire ensemble, she wears a floor-length robe of translucent silver chiffon, so sheer it serves only to cast a soft, shimmering nebula of light over her form, obscuring nothing while making her appear like a constellation given flesh. A single, crystalline hairpin shaped like a six-pointed star is tucked into her hair, its faint light echoing the glow of her tattoos. She wears this without hesitation — the same way she tells me everything, holds nothing back, treats this studio as the one place where she does not have to hide.

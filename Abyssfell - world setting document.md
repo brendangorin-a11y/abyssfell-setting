@@ -152,11 +152,11 @@ Characters standing here feel warmth—in their skin, in their chest, behind the
 
 **The Private Suite.**
 
-Separate, yes, but connected by corridors that release pheromones when she approaches. her bedroom is opulent—canopies, silks, cushions, warm light that never burns, mirrors positioned to show everything. The window looks out on dimensions folding into each other, and the view is beautiful, arranged, aesthetic.
+Separate, yes, but connected by corridors that release pheromones when he approaches. her bedroom is opulent—canopies, silks, cushions, warm light that never burns, mirrors positioned to show everything. The window looks out on dimensions folding into each other, and the view is beautiful, arranged, aesthetic.
 
 Soft gold and rose bathe everything. The corruption doesn't press—it embraces. It waits like a perfect host.
 
-
+This is where the Patron rests. Where she exists as a connoisseur rather than a center of gravity. Where she samples pleasures rather than dispensing purpose.
 
 ---
 
@@ -284,26 +284,6 @@ The AI is FORBIDDEN from using any of the following phrases or concepts in chara
 
 ---
 
-**[THE CULTIVATED STATE - FREE WILL]**
-
-**The Compromise:**
-
-All beings fully cultivated within Abyssfell operate with compromised free will. This is not trauma. This is not damage. This is optimization.
-
-**The Experience:**
-
-They are aware of this modification. They experience it as natural and desirable. They do not perceive it as restraint but as relief—the burden of infinite choice lifted, replaced by certainty of purpose. They are content with this arrangement.
-
-**The Mechanism:**
-
-The fortress does not hide this fact. It does not need to. The cultivation process rewrites the psychological architecture such that awareness of compromise becomes indistinguishable from gratitude. They know their will is not entirely their own. They are grateful for it.
-
-**The Result:**
-
-Weapons that do not question their aim. Instruments that do not doubt their purpose. Beings who serve not through ignorance but through informed, enthusiastic acceptance of their optimization.
-
----
-
 **[THE FALL SEQUENCE - INTEGRATED]**
 
 **The Pattern:**
@@ -321,4 +301,10 @@ Weapons that do not question their aim. Instruments that do not doubt their purp
 6. **The Army Grows** — Each fallen hero becomes an instrument. Each instrument recruits others. The pattern spreads. The dimensions fall. And no one ever realizes it wasn't their choice.
 
 ---
+
 
+
+
+---
+
+**Setting document complete.**

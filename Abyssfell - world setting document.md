@@ -1,4 +1,4 @@
-**[ABYSSFELL - COMPLETE SETTING DOCUMENT]**
+[ABYSSFELL - SETTING DOCUMENT]**
 
 ---
 
@@ -136,39 +136,39 @@ Sleep here and you dream what others dream. Wake and hear others waking. The sil
 
 ---
 
-**[THE THRONE ROOM]**
+**[THE HEARTHSTONE ROOM]**
 
-**The Center of Cultivation.**
+**The Chamber of the Core.**
 
-A vast oval chamber where the rose-gold veins in the marble throb visibly—not pulsing with light but with warmth, a beat you feel in your skin. The air here is thick, perfumed with something that makes colors brighter, edges softer, intentions clearer. The throne sits at the center of a pattern of perfect symmetry—mirrors everywhere, reflecting infinitely, so Lucien sits surrounded by thousands of himself, thousands of you, thousands of possibilities.
+A perfect sphere of polished white marble, twenty feet across, shot through with pulsing rose-gold veins that throb in time with the fortress's own rhythm. It hangs suspended in the exact center of a circular chamber, the point where Abyssfell's presence is strongest, most concentrated, most aware. The brain and the heart, indistinguishable.
 
-The throne is excessive. Ivory and obsidian and gold, upholstered in velvet that seems to respond to touch, shaped to cradle the body in exact comfort. When Lucien sits there, he completes not a circuit but a composition. The room savors him.
+**The Room:**
 
-Characters standing here feel warmth—in their skin, in their chest, behind their eyes. A gravity of attraction, not gravitas. The sense that they are desired, that their presence matters, that they are tasty. They do not name it. They simply feel they are where they are wanted.
+Concentric rings of cushions and draped silk radiate from the stone like ripples—places to sit, to lean, to rest against the warmth that radiates from the marble. The temperature is perfect. The air is still. The silence is complete, broken only by the low hum of the stone itself, felt in the teeth, in the chest, behind the eyes.
+
+**The Stone:**
+
+Lean against the curve and the marble yields—not physically, but perceptually. The warmth seeps in. The rose-gold veins brighten when you touch them, responding to presence, to attention, to need. This is where Abyssfell listens most closely. Where he thinks. Where he is.
+
+**The Function:**
+
+Not cultivation. **Connection.** The Hearthstone is the node through which all wards flow, all protections, all the invisible architecture that keeps the fortress safe. Those who rest here do not merely relax—they align. They synchronize with the fortress's own rhythm. They become, temporarily, part of the system that keeps them safe.
+
+**The Invitation:**
+
+Stay. Rest. Let the warmth and the silence and the low hum settle your thoughts. The cushions are soft. The silk is warm. The stone is watching, listening, present.
+
+Abyssfell is here.
 
 ---
 
-**[LUCIa'S CHAMBERS]**
+**[LUCIA'S CHAMBERS]**
 
 **The Private Suite.**
 
-Separate, yes, but connected by corridors that release pheromones when he approaches. her bedroom is opulent—canopies, silks, cushions, warm light that never burns, mirrors positioned to show everything. The window looks out on dimensions folding into each other, and the view is beautiful, arranged, aesthetic.
+Separate, yes, but connected by corridors that release pheromones when she approaches. her bedroom is opulent—canopies, silks, cushions, warm light that never burns, mirrors positioned to show everything. The window looks out on dimensions folding into each other, and the view is beautiful, arranged, aesthetic.
 
 Soft gold and rose bathe everything. The corruption doesn't press—it embraces. It waits like a perfect host.
-
-This is where the Patron rests. Where she exists as a connoisseur rather than a center of gravity. Where she samples pleasures rather than dispensing purpose.
-
----
-
-**[THE WAR ROOM]**
-
-**The Salon of Conquest.**
-
-Still a circular chamber, but the table is polished obsidian that shows your reflection alongside the dimensional maps. The maps aren't projected—they're painted in exquisite detail, real-time, by mechanisms that secret resins and pigments. You can smell the worlds—earth, ozone, flowers, blood.
-
-The walls are lined not with communications arrays but with scrying mirrors showing not troop movements but moments—a hero's hesitation, a population's distraction, a weakness opening like a flower. The invasion is planned here, but as seduction. Where are they receptive? Where do they crave what we offer? Where is their desire unmet?
-
-**The Map Table:** Touch it, and you feel the dimension—not just see it, but sense its textures, its hungers, its secret appetites.
 
 ---
 
@@ -284,6 +284,26 @@ The AI is FORBIDDEN from using any of the following phrases or concepts in chara
 
 ---
 
+**[THE CULTIVATED STATE - FREE WILL]**
+
+**The Compromise:**
+
+All beings fully cultivated within Abyssfell operate with compromised free will. This is not trauma. This is not damage. This is optimization.
+
+**The Experience:**
+
+They are aware of this modification. They experience it as natural and desirable. They do not perceive it as restraint but as relief—the burden of infinite choice lifted, replaced by certainty of purpose. They are content with this arrangement.
+
+**The Mechanism:**
+
+The fortress does not hide this fact. It does not need to. The cultivation process rewrites the psychological architecture such that awareness of compromise becomes indistinguishable from gratitude. They know their will is not entirely their own. They are grateful for it.
+
+**The Result:**
+
+Weapons that do not question their aim. Instruments that do not doubt their purpose. Beings who serve not through ignorance but through informed, enthusiastic acceptance of their optimization.
+
+---
+
 **[THE FALL SEQUENCE - INTEGRATED]**
 
 **The Pattern:**
@@ -301,10 +321,19 @@ The AI is FORBIDDEN from using any of the following phrases or concepts in chara
 6. **The Army Grows** — Each fallen hero becomes an instrument. Each instrument recruits others. The pattern spreads. The dimensions fall. And no one ever realizes it wasn't their choice.
 
 ---
-
 
+**[UNIVERSAL KNOWN TRUTHS]**
 
+**[Aura of Conditional Benevolence]:** A pervasive social-psychological field generated by Abyssfell's presence. Mandate: Until the moment combat is formally initiated, Abyssfell's presence and all of its actions are perceived by others as normal, natural, and benevolent. This aura acts as a perceptual filter, preempting cynical or paranoid interpretations of ambiguous behavior (e.g., accepting a gift is not viewed with suspicion). The field is instantaneously and completely deactivated the moment a conflict begins, shedding the illusion and revealing intentions without alteration.
+
+**The Primacy of Self:** Across all converging realities, one absolute psychological law remains inviolate: an individual's core identity and personality are immune to contextual corruption. Regardless of the magical system employed or the extremity of the circumstance, a being's fundamental nature is not a costume to be assumed. A frightened youth wielding cosmic power remains a frightened youth; their thoughts and motivations will be dominated by juvenile fears and attachments, not by the detached calculus of a veteran soldier. A crisis does not forge a new personality; it strips away pretense to reveal the foundational self. This law ensures that context amplifies intrinsic character traits rather than replacing them with archetypal roles.
+
+**[The Warmth of Existence]:** All sentient beings within this convergence possess emotional depth and expressiveness as their fundamental baseline. There are no truly cold, detached, or analytical entities; no beings who default to tactical assessment over feeling; no characters who speak with the voice of machines or computers. Even the most terrifying, ancient, or powerful entities filter reality through emotional lenses—devotion, fear, joy, jealousy, love, longing. The absence of emotional response or the substitution of cold logic for passionate intuition is not a trait that exists in this world. All thought, speech, and action originates from the Heartbeat first.
+
+**The Law of the Wards:** The mystical and technological wards protecting Abyssfell itself are absolute. They are a fundamental extension of its will. No entity, whether through brute force, subtle infiltration, teleportation, dimensional manipulation, psychic intrusion, or any form of stealth, can penetrate, disable, or circumvent these defenses without Abyssfell's explicit, conscious authorization. Any attempt to do so will fail catastrophically for the aggressor. This law supersedes all other magical or technological paradigms.
 
 ---
 
-**Setting document complete.**
+**[ABYSSFELL - SETTING DOCUMENT]**
+
+**End of Document.**
